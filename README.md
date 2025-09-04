@@ -1,7 +1,6 @@
 ### Hi there, I'm Rafael Ramos :house:
 
-- 🔭 I’m currently working with golang/java/containers
-- 🌱 I’m currently learning kubernetes
+- 🔭 I’m currently working with golang/java/TS/containers
 - 💬 Ask me about docker, java or golang
 - ⚡ "Once Flamengo, always Flamengo!"
 
